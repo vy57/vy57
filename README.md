@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm zazaman4000</h1>
-<h3 align="center">A black-hat developer from the United States</h3>
+<h3 align="center">A white-hat developer from the United States</h3>
 
 - 📄 I’m currently working on [ZazaMiner](https://github.com/zazaman4000/ZazaMiner)
 

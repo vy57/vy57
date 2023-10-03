@@ -3,15 +3,9 @@
 
 - 📄 I’m currently working on [ZazaMiner](https://github.com/zazaman4000/ZazaMiner)
 
-- 📄 I’m currently learning **C# and C++**
-
 - 📄 All of my projects are available at [https://www.zazaman.tech](https://www.zazaman.tech)
 
-- 📄 Ask me about **cyber security**
-
 - 📄 How to reach me **zazalover@terrorist.services**
-
-- 📄 Know about my experiences [https://www.zazaman.tech](https://www.zazaman.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

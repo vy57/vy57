@@ -6,9 +6,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vy57&show_icons=true&locale=en&layout=compact" alt="vy57" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vy57&show_icons=true&locale=en" alt="zazaman4000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vy57&" alt="vy57" /></p>
 
 
 ![](https://media.tenor.com/uLOik-kavCEAAAAd/kankan-so-what.gif)
@@ -17,5 +14,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zazaman4000/count.svg" />
+  <img src="https://profile-counter.glitch.me/vy57/count.svg" />
 </p>

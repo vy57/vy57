@@ -1,12 +1,12 @@
-# Hi there, I'm vy57 👋
+I'm vy57
 
-**A passionate developer from the United States**
+**A developer from the United States**
 
 ---
 
 ## 🚀 About Me
 
-I'm a developer who loves building cool projects and exploring new technologies. Always learning, always growing.
+I'm a developer who loves building cool projects and exploring new technologies.
 
 ---
 
@@ -24,20 +24,8 @@ I'm a developer who loves building cool projects and exploring new technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vy57&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vy57&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 📫 Get In Touch
 
 - GitHub: [@vy57](https://github.com/vy57)
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vy57/count.svg" alt="Visitor Count" />
-</p>

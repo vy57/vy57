@@ -1,16 +1,14 @@
 I'm vy57
 
-**A developer from the United States**
-
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a developer who loves building cool projects and exploring new technologies.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,11 +19,5 @@ I'm a developer who loves building cool projects and exploring new technologies.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📫 Get In Touch
-
-- GitHub: [@vy57](https://github.com/vy57)
 
 ---
